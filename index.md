@@ -1,35 +1,9 @@
 ## OpenDESF
-You can use the [editor on GitHub](https://github.com/KPraszkiewicz/openDESF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Podjęty przez nas projekt miał pozwolić na zastosowanie kart rodzin DESFIRE EV1, EV2, EV3 w open-sourcowych i amatorskich projektach. Są to karty kryptograficzne karty zbliżeniowe pozwalające na jednoznaczne potwierdzenie tożsamości posiadacza. Z racji na zastosowane algorytmy kryptograficzne, w przeciwieństwie do popularnych kart RFID, nie jest możliwe skopiowanie czy też podrobienie takiej karty. Jest całkiem ciekawy sprzęt o potencjalnym dużym wachlarzu zastosowań, jednakże dokumentacja protokołu nie została udostępniona publicznie i wymaga podpisania non-disclosure agreement z firmą NXP Semiconductors.
 
+<sup>~ Zespół OpenDESF</sup>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KPraszkiewicz/openDESF/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Odnośniki
+ - [repozytorium](https://github.com/AGH-Narzedzia-Informatyczne/libopendesf)
+ - [dokumentacja](https://github.com/AGH-Narzedzia-Informatyczne/libopendesf/wiki)
+ - [
