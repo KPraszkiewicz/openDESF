@@ -6,5 +6,6 @@
    W dokumentacji znajdują się informacje o działaniu, zastasowaniu, wykorzystanych technologiach i instrukacja użytkowania.
    
 ### Odnośniki
+
  - [repozytorium](https://github.com/AGH-Narzedzia-Informatyczne/libopendesf)
  - [dokumentacja](https://agh-narzedzia-informatyczne.github.io/libopendesf/#/)
